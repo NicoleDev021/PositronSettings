@@ -42,7 +42,7 @@ We appreciate your attention to these documents to help keep the project collabo
 
 ## License
 
-**Source code** in this repository is licensed under the [MIT License)](https://opensource.org/license/mit). Each respective author's license is in the folder with their contribution.
+**Source code** in this repository is licensed under the [MIT License](https://opensource.org/license/mit). Each respective author's license is in the folder with their contribution.
 
 **Documentation** (including the README, all files in the `docs/` directory, and all files in the `.github` directory) is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
