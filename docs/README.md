@@ -6,10 +6,10 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # My Settings for Positron IDE
 
-1. Install [FiraCodeiScript (Author: kencrocken)](https://github.com/kencrocken/FiraCodeiScript#) onto your PC so that it can work in the browser and on the PC.
+1. Install [FiraCodeiScript (Author: Ken Crocken)](https://github.com/kencrocken/FiraCodeiScript#) onto your PC so that it can work in the browser and on the PC.
    * Copies have been added to the repo for preservation and compilation purposes in the FiraCodeiScript folder
    1. Right-click each extracted file and choose to install for all users
-3. Using the [Download VSIX from VS Marketplace script (Author: mjmirza)](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place), download the [Palenight theme (Author: Olaolu Olawuyi)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+3. Using the [Download VSIX from VS Marketplace script (Author: Mirza Iqbal)](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place), download the [Palenight theme (Author: Olaolu Olawuyi)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
    * Copies have been added to the repo for preservation and compilation purposes in the VSIX Download folder
    1. Open the VS Code extension page on the Visual Studio Marketplace.
    2. Open the browser's developer console. (Usually by pressing F12)
@@ -42,13 +42,13 @@ We appreciate your attention to these documents to help keep the project collabo
 
 ## License
 
-**Source code** in this repository is licensed under the [GNU General Public License v3.0 or later (GPL-3.0-or-later)](https://www.gnu.org/licenses/gpl-3.0.html).
+**Source code** in this repository is licensed under the [MIT License)](https://opensource.org/license/mit). Each respective author's license is in the folder with their contribution.
 
 **Documentation** (including the README, all files in the `docs/` directory, and all files in the `.github` directory) is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 For code files, you may see the following SPDX identifier at the top:
 ```
-SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-License-Identifier: MIT
 ```
 For documentation files, you may see:
 ```
