@@ -18,7 +18,7 @@ SPDX-License-Identifier: CC-BY-4.0
 4. Install the Palenight theme in Positron
    * Copies have been added to the repo for preservation and compilation purposes in the Palenight folder
    1. Press `ctrl-shift-P` and type "Extensions: Install from VSIX..." and choose the VSIX file
-6. Open the settings.json file (Author: NicoleDev021) in Positron and copy the contents of the repo's settings.json file.
+6. Open the settings.json file in Positron and copy the contents of the repo's settings.json file (Author: NicoleDev021).
 7. Save settings and restart Positron to enable
 
 ---
