@@ -4,12 +4,22 @@ SPDX-FileCopyrightText: Copyright (c) 2025 Madison Nicole Goodwin https://github
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
-# Template Repository for Correct License Compliance of CC and GPL
+# My Settings for Positron IDE
 
-> **Disclaimer:**  
-> I am not a lawyer. The information provided in this repository is based on my own personal research and is intended for my own use. Please consult a qualified attorney for legal advice or guidance regarding license compliance.
-
-This repository serves as a template for correctly complying with Creative Commons (CC) and GNU General Public License (GPL) requirements.
+1. Install [FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript#) onto your PC so that it can work in the browser and on the PC.
+   * Copies have been added to the repo for preservation and compilation purposes in the FiraCodeiScript folder
+   1. Right-click each extracted file and choose to install for all users
+3. Using the [Download VSIX from VS Marketplace script](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) download the [Palenight theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+   * Copies have been added to the repo for preservation and compilation purposes in the VSIX Download folder
+   1. Open the VS Code extension page on the Visual Studio Marketplace.
+   2. Open the browser's developer console. (Usually by pressing F12)
+   3. Paste the script into the console and press Enter.
+   4. A "Download VSIX" button will appear on the page. Click it to download the VSIX file.
+4. Install the Palenight theme in Positron
+   * Copies have been added to the repo for preservation and compilation purposes in the VSIX Download folder
+   1. Press `ctrl-shift-P` and type "Extensions: Install from VSIX..." and choose the VSIX file
+6. Open the settings.json file in Positron and copy the contents of the repo's settings.json file.
+7. Save settings and restart Positron to enable
 
 ---
 
