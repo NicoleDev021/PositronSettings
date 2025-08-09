@@ -16,7 +16,7 @@ SPDX-License-Identifier: CC-BY-4.0
    3. Paste the script into the console and press Enter.
    4. A "Download VSIX" button will appear on the page. Click it to download the VSIX file.
 4. Install the Palenight theme in Positron
-   * Copies have been added to the repo for preservation and compilation purposes in the VSIX Download folder
+   * Copies have been added to the repo for preservation and compilation purposes in the Palenight folder
    1. Press `ctrl-shift-P` and type "Extensions: Install from VSIX..." and choose the VSIX file
 6. Open the settings.json file in Positron and copy the contents of the repo's settings.json file.
 7. Save settings and restart Positron to enable
