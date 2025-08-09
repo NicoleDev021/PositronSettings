@@ -25,6 +25,7 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
+    "positron.reticulate.enabled": true,
     "remote.restoreForwardedPorts": false,
     "terminal.integrated.cwd": "C:\\Users\\Nekozeki\\Documents\\Nekoineer",
     "terminal.integrated.defaultProfile.windows": "Git Bash",
